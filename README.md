@@ -24,7 +24,7 @@ $ python drawer.py
 ![1st image](usedImages/1.png)
 
 #### Using Timeline drawer:
-![2nd image](usedImages/2.png)
+![2nd image](usedImages/second.png)
 
 #### After drawing in the timeline:
 ![3rd image](usedImages/3.png)
